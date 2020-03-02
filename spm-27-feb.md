@@ -61,7 +61,7 @@
 
 - Project Management Framework
 > Core Functions
-> - Project Scope Management (WBS)
+> - Project Scope Management (Work Breakdown Structure)
 > - Project Time Management
 > - Project Cost Management
 > - Project Quality Management
