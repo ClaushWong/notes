@@ -95,8 +95,8 @@
 			"schedules": [
 				{
 					"day": 0,
-					"timeStart": "1700",
-					"timeEnd": "1800",
+					"timeStart": "1500",
+					"timeEnd": "1600",
 					"type": 0
 				},
 				{
