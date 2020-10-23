@@ -337,7 +337,7 @@ Test Condition (following are the test design techniques)
 -----
 ### Test Documentation ISO/IEC/IEEE 29119-3
 
-!['test-doc-ieee-291119-3](ieee-29119)
+!['test-doc-ieee-291119](ieee-29119)
 
 -----
 
